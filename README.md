@@ -53,7 +53,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 
 * Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
 
-## Commit Early and Often
+<!-- ## Commit Early and Often
 
 One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
 
@@ -71,7 +71,7 @@ Follow these guidelines for committing:
 
 * Test your application before you commit to ensure functionality at every step in the development process.
 
-We would like you to have well over 200 commits by graduation, so commit early and often!
+We would like you to have well over 200 commits by graduation, so commit early and often! -->
 
 ## Submission on BCS
 
