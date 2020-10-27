@@ -1,3 +1,8 @@
+
+.banner{
+    text-align: center;
+}
+
 .card-body{
     text-align: center;
 }
@@ -6,9 +11,6 @@
     display: flex;
 }
 
-.banner{
-    text-align: center;
-}
 
 .nav{
     padding: 0, 0, .5em, 0;
