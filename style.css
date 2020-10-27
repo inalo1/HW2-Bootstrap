@@ -1,9 +1,15 @@
 
-    /* //index css */
+    /* // all 3 pages */
 
 .banner{
     text-align: center;
 }
+
+.nav{
+    padding-bottom: .5em;
+} 
+
+    /* //index css */
 
 .card-deck{
     padding-top: 1em;
@@ -11,24 +17,18 @@
     padding-right: 30%;
 }
 
-.card-body{
+/* .card-body{
     text-align: center;
-}
+} */
 
-.card{
-    display: flex;
-}
-
-
-.nav{
-    padding: 0, 0, .5em, 0;
-}
 
     /* //portfolio.css */
 
-    .content{
-        margin-left: 15%;
-        margin-right: 15%;
-        padding-left: 10em;
-        padding-right: 10em;
-    }
+.content{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+
