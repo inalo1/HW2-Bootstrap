@@ -27,6 +27,7 @@ The CSS framework used in thin this portfolio is Bootstrap. Bootstrap was one of
 
 ## Live Link
 * Link: [Portfolio](https://inalo1.github.io/Professional-Portfolio/)
+![Portfolio Screenshot](https://user-images.githubusercontent.com/73044038/99111880-7870d900-25b2-11eb-9542-d396c7fbff3a.png)
 
 ## Online Portfolio Overview
 ![Portfolio Screenshot](https://user-images.githubusercontent.com/73044038/99029470-24c1a980-2538-11eb-8ef0-93ac083a2198.png)
