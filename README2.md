@@ -36,7 +36,7 @@ If you are opting out of career services, this is _still a required assignment_.
 
 Your updated portfolio should:
 
-1. Display your full name, email, and phone number
+<!-- 1. Display your full name, email, and phone number -->
 
 <!-- 2. Have links to your GitHub profile and LinkedIn profile -->
 
