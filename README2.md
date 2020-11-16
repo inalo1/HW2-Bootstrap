@@ -40,7 +40,7 @@ Your updated portfolio should:
 
 <!-- 2. Have links to your GitHub profile and LinkedIn profile -->
 
-3. Have a link to a downloadable PDF of your resume
+<!-- 3. Have a link to a downloadable PDF of your resume -->
 
 4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
 
