@@ -6,13 +6,13 @@ If you are opting out of career services, this is _still a required assignment_.
 
 ## Requirements
 
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
+<!-- * Submit an updated portfolio featuring Project 1 and two exemplary homework assignments. -->
 
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
+<!-- * Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments. -->
 
 * Submit an updated resume
 
-* Submit an updated LinkedIn profile
+<!-- * Submit an updated LinkedIn profile -->
 
 ## Grading
 
@@ -52,11 +52,11 @@ Your updated portfolio should:
 
     * Screenshot of the deployed application -->
 
-5. Have a polished, mobile-responsive user interface.
+<!-- 5. Have a polished, mobile-responsive user interface. -->
 
 ### Design
 
-Unfortunately, this is where it gets a little bit subjective. Your site should look
+<!-- Unfortunately, this is where it gets a little bit subjective. Your site should look
 "polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
@@ -64,7 +64,7 @@ Unfortunately, this is where it gets a little bit subjective. Your site should l
 * Choose a color palette for your site so it doesn't just look like
   the default bootstrap theme or an unstyled HTML site.
 
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain. -->
 
 ## Updated GitHub Profile 
 
