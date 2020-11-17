@@ -1,26 +1,61 @@
+body{
+    font-family: 'Rokkitt', serif;
+    /* font-family: 'Cinzel', serif; */
+}
+
 .banner{
     text-align: center;
+}
+
+.jumbotron{
+    background-color: rgb(243, 241, 241);
 }
 
 .nav{
     padding-bottom: .5em;
 } 
 
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: black;
+}
+
+.nav-link, .nav-link:hover{
+    color: cadetblue;
+}
+
+.card-link:hover{
+    color: cadetblue;
+}
+
+.btn{
+    color: white;
+    background-color: cadetblue;
+    border: cadetblue;
+}
+
+.btn:hover{
+    color: black;
+    background-color: rgb(243, 241, 241);
+    border: cadetblue;
+    
+}
 /* HOME PAGE */
 
-/* #name, #welcome {
+#name, #welcome {
     color: white;
-    font-family: 'Xanh Mono', monospace;
     text-align: center;
 }
 
 #name {
-    margin-top: 25%;
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    margin-top: 150px;
 }
 
-#welcome{
-    margin-bottom: 25%;
-} */
 
 
 
