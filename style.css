@@ -8,7 +8,7 @@ body{
 }
 
 .jumbotron{
-    background-color: rgb(243, 241, 241);
+    background-color: rgb(238, 226, 226);
 }
 
 .nav{
@@ -27,6 +27,9 @@ a:hover {
     color: cadetblue;
 }
 
+.card-link{
+    color:rgb(180, 158, 158)
+}
 .card-link:hover{
     color: cadetblue;
 }
@@ -39,14 +42,14 @@ a:hover {
 
 .btn:hover{
     color: black;
-    background-color: rgb(243, 241, 241);
+    background-color:rgb(238, 226, 226);
     border: cadetblue;
     
 }
 /* HOME PAGE */
 
 #name, #welcome {
-    color: white;
+    color: rgb(41, 40, 40);
     text-align: center;
 }
 
